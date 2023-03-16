@@ -12,7 +12,7 @@
 <span class="fragment"></span>
 <span class="fragment"></span>
 
-<div data-animate data-src="images/irs_structure.drawio.svg">
+<div data-animate data-src="images/irs_structure_de.drawio.svg">
 <!--
 { "setup": [
 { "element": "#cell-5, #cell-14, #cell-6, #cell-15, #cell-16, #cell-7, #cell-17, #cell-8, #cell-9, #cell-2", "modifier": "attr", "parameters": [ {"class": "fragment", "data-fragment-index": "0"} ] },
@@ -32,7 +32,7 @@
 
 ---
 
-# aktueller Status
+## aktueller Status
 
 +++
 
