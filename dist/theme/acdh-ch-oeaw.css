@@ -402,6 +402,10 @@ div.reveal::before {
   z-index: 9999;
 }
 
+.reveal ul {
+  list-style-type: "- ";
+}
+
 div.reveal::after {
   position: absolute;
   content: "ACDH-CH - Austrian Centre for Digital humanities and cultural heritage";
