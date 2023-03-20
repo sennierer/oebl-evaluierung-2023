@@ -6,7 +6,7 @@
 - ...und wird unter der MIT Lizenz (open-source) veröffentlicht<!-- .element: class="fragment" -->
 
 Note:
-- Gideon teuer, nur auf IE, wird von Fikrma nicht mehr entwickelt
+- Gideon teuer, nur auf IE, wird von Firma nicht mehr entwickelt
 - open-source wichtig:
     - kein log in Effekt
     - of viele existierende plugins
@@ -36,7 +36,7 @@ Note:
     - ~100.000 KandidatInnen aus Gideon werden importiert
     - Auswahl hier, dann drag and drop auf 'Lieferung'
 - Workflowtool:
-    - daadurch import ins Workflowtool
+    - dadurch import ins Workflowtool
     - Abbildung des Redaktionsprozesses
     - von Detailseite jeder Bio Zugang Editor
 - Editor:
@@ -75,7 +75,7 @@ Note:
 - Detailseite rechts
 - frei konfigurierbare Listen links
 - import aus z.b. Excel
-- semiautomatisches Mapping auf GND
+- semi-automatisches Mapping auf GND
 - automatische scrape jobs im Hintergrund
 
 +++
@@ -89,7 +89,7 @@ Note:
 - Spalten: redaktioneller Prozess
 - Etiketten: organisatorisch/formelles: vertrag, Bezahlung etc
 - einfaches drag and drop
-- rechts Details einer Bio (metadataen, status etc)
+- rechts Details einer Bio (metadaten, status etc)
 - zugang zu Editor
 
 +++
@@ -106,7 +106,7 @@ Note:
 - Annotation
 - Kommentarfunktion
 - Versionierung
-- detailiertes Rechtemanagement: write, view, comment
+- detailliertes Rechtemanagement: write, view, comment
 - Autoren bekommen einfach Link (ähnlich Google Docs)
 
 +++

@@ -26,7 +26,7 @@ Note:
 - IRS: Integriertes Redaktionssystem<!-- .element: class="fragment" -->
 - verbesserte ÖBL webpage<!-- .element: class="fragment" -->
 - Wiederverwendung der Daten in anderen Projekten -> InTaVia<!-- .element: class="fragment" -->
-- aktives Engaggement im wikipedia/wikidata Umfeld<!-- .element: class="fragment" -->
+- aktives Engagement im wikipedia/wikidata Umfeld<!-- .element: class="fragment" -->
 
 Note:
 - IRS basiert auf APIS als Backend, zusätzlich Workflow Komponenten auf den Servern die jobs abarbeiten
